@@ -13,4 +13,4 @@
 6. System design can be moved on to high bandwidth mediums like Gigabit Ethernet, 10Gb Ethernet .etc with minor modification.
 
 ## Design Architecture
-<img src="https://github.com/SandaruJayawardana/fpga-base-pipelined-processor/blob/main/mux_sel_reg_bank.png" alt="alt text" width="200" height="600">
+<img src="https://github.com/SandaruJayawardana/fyp_slave_device/blob/main/slave%20design.png" alt="alt text" width="200" height="600">
