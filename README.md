@@ -1,6 +1,6 @@
 # fyp_slave_device
 
-> This is a ongoing project. The system block diagram is shown below. The aim of the project was to design and develop a total system to control multi devices using single pair cable. In here we will design and implement a total design using Fast Etherent medium. Total system is a master slave architecture. Master device will be implemented in SoC FPGA device and slave device is implemented in FPGA. 
+> This is an ongoing project. The system block diagram is shown below. The aim of the project was to design and develop a total system to control multi devices using single pair cable. In here we will design and implement a total design using Fast Etherent medium. Total system is a master slave architecture. Master device will be implemented in SoC FPGA device and slave device is implemented in FPGA. 
 
 ## Specifications of Current Design
 
